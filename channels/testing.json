@@ -1,0 +1,81 @@
+{
+  "schema": 1,
+  "channel": "testing",
+  "built": "2026-10-29",
+  "commit": "86226f2",
+  "branch": "testing",
+  "addons": [
+    {
+      "id": "novabird-extension@novabird",
+      "version": "1.12.3",
+      "type": "extension",
+      "url": "https://github.com/Novabird-Addons/Nova-Bird-Online-Updates/releases/download/testing-2026-10-29-86226f2/novabird-extension-1.12.3.xpi",
+      "sha256": "40ad657a08cd60e8a6ae9ae41f4a1b770cf03daff7de34e0ef8ecca854477ae0",
+      "size": 218538,
+      "minApp": "128.0"
+    },
+    {
+      "id": "novabird-search@novabird",
+      "version": "1.2.10",
+      "type": "extension",
+      "url": "https://github.com/Novabird-Addons/Nova-Bird-Online-Updates/releases/download/testing-2026-10-29-86226f2/novabird-search-1.2.10.xpi",
+      "sha256": "f2ac8dfebc9de43273a38412420d41af965425263274236585af7281c1b8a3ca",
+      "size": 82784,
+      "minApp": "128.0"
+    },
+    {
+      "id": "novabird-conversation@novabird",
+      "version": "0.15.4",
+      "type": "extension",
+      "url": "https://github.com/Novabird-Addons/Nova-Bird-Online-Updates/releases/download/testing-2026-10-29-86226f2/novabird-conversation-0.15.4.xpi",
+      "sha256": "7e029fc52f686f982e0d2aee36419826f790d961b5be435ca221ce67e8955c3f",
+      "size": 72283,
+      "minApp": "128.0"
+    },
+    {
+      "id": "novabird-db@novabird",
+      "version": "1.2.5",
+      "type": "extension",
+      "url": "https://github.com/Novabird-Addons/Nova-Bird-Online-Updates/releases/download/testing-2026-10-29-86226f2/novabird-db-1.2.5.xpi",
+      "sha256": "78fdad4c0766683133eea7c92bea7b3f2360a6823bb69348d4a04d1997b68411",
+      "size": 115074,
+      "minApp": "128.0"
+    },
+    {
+      "id": "novabird-send@novabird",
+      "version": "1.0.4",
+      "type": "extension",
+      "url": "https://github.com/Novabird-Addons/Nova-Bird-Online-Updates/releases/download/testing-2026-10-29-86226f2/novabird-send-1.0.4.xpi",
+      "sha256": "da67767af0be467b1bc9260eca856133a489c8fc9c0362f55913c8ffb587cf66",
+      "size": 38626,
+      "minApp": "128.0"
+    },
+    {
+      "id": "novabird-t-sand@novabird",
+      "version": "1.0.1",
+      "type": "theme",
+      "url": "https://github.com/Novabird-Addons/Nova-Bird-Online-Updates/releases/download/testing-2026-10-29-86226f2/novabird-t-sand-1.0.1.xpi",
+      "sha256": "a90de7f070d2de4447550e4a6c85d60a58253d50110c8921f78bfe354b0bce2e",
+      "size": 43846,
+      "minApp": "128.0"
+    },
+    {
+      "id": "novabird-t-cobalt@novabird",
+      "version": "1.0.3",
+      "type": "theme",
+      "url": "https://github.com/Novabird-Addons/Nova-Bird-Online-Updates/releases/download/testing-2026-10-29-86226f2/novabird-t-cobalt-1.0.3.xpi",
+      "sha256": "cdd8e8ab66bf8c20120238f6e305be9ba2e14dc9b583328d3f396b8795d95ee9",
+      "size": 15651,
+      "minApp": "115.0"
+    },
+    {
+      "id": "novabird-t-springlight@novabird",
+      "version": "1.7.3",
+      "type": "theme",
+      "url": "https://github.com/Novabird-Addons/Nova-Bird-Online-Updates/releases/download/testing-2026-10-29-86226f2/novabird-t-springlight-1.7.3.xpi",
+      "sha256": "3e82cf1f0540776c2463aa1848899880d8c77735209a399df9ede652e70a0639",
+      "size": 15177,
+      "minApp": "115.0"
+    }
+  ]
+}
